@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoelC-code
-- 👀 I’m interested in origami and coding
-- 🌱 I’m currently learning Java (GUI and algorithm)
+- 👀 I’m interested in gaming and coding
+- 🌱 I’m currently learning Java (Object Oriented Programming)
 - 📫 How to reach me @234_xfc in IG
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i qualify as a programmer (less than 8 hours sleep)
