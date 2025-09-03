@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoelC-code
 - 👀 I’m interested in gaming and coding
-- 🌱 I’m currently learning Java (Object Oriented Programming)
+- 🌱 I’m currently learning Kotlin (Android Apps)
 - 📫 How to reach me @234_xfc in IG
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Screw this thing 😭
